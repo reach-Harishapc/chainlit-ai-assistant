@@ -75,5 +75,3 @@ The application will launch in your browser at `http://localhost:8000/`
 3. **Chat**: Send messages and receive real-time streaming responses tailored to the active profile's system prompt.
 
 ---
-
-> **Note:** This project was built in 2023 as part of a founder timeline, showcasing rapid AI prototyping using modern frameworks like Chainlit and LangChain.
